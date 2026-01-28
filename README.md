@@ -31,7 +31,7 @@ On the training set correlation analysis:
 - **Sugar price** shows weak positive correlation (**0.31**).
 - **Sugar consumption** shows weak negative correlation (**−0.28**) (likely noise / proxy mismatch). 
 
-> Note: Total population and population aged >40 are highly correlated (**0.94**), indicating potential redundancy / multicollinearity risk. :contentReference[oaicite:4]{index=4}
+> Note: Total population and population aged >40 are highly correlated (**0.94**), indicating potential redundancy / multicollinearity risk.
 
 ### 2) Test predictions (2022–2024)
 | Year | Actual | Predicted |
