@@ -1,4 +1,4 @@
-# Annual Diabetes Cases Prediction (Indonesia) — Neural Network Regression
+# Annual Diabetes Cases Prediction (Indonesia) - Neural Network Regression
 
 This repository contains a small end-to-end machine learning project to **predict annual diabetes cases in Indonesia (2010–2024)** using a **feedforward Neural Network (regression)** built with **Keras/TensorFlow**.
 
